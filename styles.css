@@ -56,6 +56,7 @@ hr {
 }
 
 .btn {
+  background:  -webkit-gradient(top, #11cdd4, #11999e);
   background: #1fbacf;
   background-image: -webkit-linear-gradient(top, #1fbacf, #c3dae8);
   background-image: -moz-linear-gradient(top, #1fbacf, #c3dae8);
@@ -73,6 +74,7 @@ hr {
 }
 
 .btn:hover {
+  background:  -webkit-gradient(top, #11cdd4, #11999e);
   background: #d99ab5;
   background-image: -webkit-linear-gradient(top, #d99ab5, #94c7e8);
   background-image: -moz-linear-gradient(top, #d99ab5, #94c7e8);
